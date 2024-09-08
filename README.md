@@ -1,5 +1,5 @@
-# Financial Products Recommendation System
-Financial Products Recommendation System是一个金融产品推荐系统，其中使用了一些经典的机器学习算法以及深度学习算法预测用户对金融产品的兴趣，实现千人千面的定制化推荐。
+# Financial Products Recommender System
+Financial Products Recommender System是一个金融产品推荐系统，其中使用了一些经典的机器学习算法以及深度学习算法预测用户对金融产品的兴趣，实现千人千面的定制化推荐。
 
 ## 环境要求
 * Python 3.6+
